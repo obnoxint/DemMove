@@ -39,10 +39,10 @@ The property values are:
 
 * *exeName* - The **exact** name of the executable game file, like it appears in the Windows Task Manager.
 * *source* - The directory where the game places the recorded demo files.
-* *target* - The directory where DemMove should move them demo files to. This directory will be created if it doesn't
+* *target* - The directory where DemMove should move the demo files to. This directory will be created if it doesn't
 exist.
 
-**Note:** The character "\" (Backslash) is a special character in Java and must be escaped like this: "\\".
+**Note:** The character "\" (Backslash) is a special character in Java and must be escaped like this: "\\\".
 
 # License
 
