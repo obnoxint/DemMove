@@ -17,6 +17,7 @@ window, run it with *java* instead of *javaw*.
 
 # Requirements
 
+* Windows 7 or later
 * Java 8
 * A Source based game
 * (Optional) Sander
